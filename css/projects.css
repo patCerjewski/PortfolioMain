@@ -1,0 +1,17 @@
+#projects{
+    
+    background-color: lightgray;
+     padding: 45px;
+     font-family:  'Poppins', sans-serif; 
+     height: 600px
+
+    
+     
+
+};
+#projects h1{
+    max-width: 20%;
+}
+img{
+    max-width: 100%
+}

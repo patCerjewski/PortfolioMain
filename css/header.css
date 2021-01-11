@@ -1,0 +1,6 @@
+.jumbotron{
+    background: url("./assets/img.jpg") center center;
+    background-size: cover;
+    height: 55vh;
+    margin-bottom: 0;
+}
